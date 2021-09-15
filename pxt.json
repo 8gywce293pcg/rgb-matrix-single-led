@@ -1,5 +1,5 @@
 {
-    "name": "RGB_MATRIX_SINGEL_LED",
+    "name": "RGB_MATRIX_SINGLE_LED",
     "description": "",
     "dependencies": {
         "core": "*",
